@@ -1,0 +1,13 @@
+My Opera is the support community for the Opera web browser. More than 7,500 new members join per day, and the site has more than 9 million members. In addition to being a support site for the Opera browser, My Opera is a social networking site, featured with blogs, photo albums, and more.
+The My Opera Community was launched in August 2001 as a simple support site for the browser, and the website had its first upgrade a month later on September 11. On December 15, 2003, the website underwent an upgrade that allowed users to access more features.
+In September 2005, the My Opera Community added major improvements. During this upgrade, users were given access to photo albums, improved blogs, the ability to create custom groups, and 300MB of free storage space. Improvements to blogging included the introduction of "mobile blogging" or blogging from a mobile phone through MMS.
+On March 8, 2007, Opera released a new version of the site.
+The new hardware for the 2006 upgrade was put to use for a beta test website on October 26, 2006. This website was intended to remain up even after the final install of the new hardware on the regular website. There are extensive plans for various subdomains on the My Opera site.
+On April 7, 2011, Opera released a free email service for all existing and new-joining My Opera users called My Opera Mail and powered by Opera's FastMail.FM email platform. 
+Every My Opera user gets 2 GB of space for file storage. Users may use this space for their blogs, photo albums, and forum attachments.
+Blog support started out with a personal "Journal" service. In September 2005, along with other major improvements the service, "Journal" was changed to a "Blog" service. Opera Software also uses a blog as a way to publish news on its weekly updates through the Opera Desktop Team Blog, which is the most popular blog on the community. Users also have the option of listing their blog on a world map.
+There is a subsection called "Forums" devoted to Opera-themed forums or official off-topic forums. There are also separate forums in an individual's Groups . All forums support standard BBCode-based features.
+My Opera Mail offers its users a free email account. It is currently a beta release, and new features are being added regularly. Features of My Opera Mail are similar to that of a basic e-mail service. Accounts include 1 GB of storage, but this is separate from the My Opera 2 GB storage. It is compatible with POP and IMAP email retrieval protocols as well as XMPP instant messaging.
+Opera Link's synchronized bookmarks, notes, and Speed dial can be accessed through a web interface at http://link.opera.com/.
+There are several Opera subdomain sites that use a My Opera account. These include:
+ઢાંચો:OperaBrowser

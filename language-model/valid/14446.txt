@@ -1,0 +1,8 @@
+ભૂમિતિમાં, ત્રિજ્યાએ વર્તુળ અથવા ગોળાનું કેન્દ્રથી સીમા પરનું ટૂંકામાં ટૂંકુ અંતર છે. તે વ્યાસ કરતાં અડધું હોય છે.
+r= d ÷ 2
+d= 2 x r = d= r + r
+r= ત્રિજ્યા, d= વ્યાસ
+ત્રિજ્યા    r   {\displaystyle {\displaystyle r}} અને વર્તુળનો પરિઘ    c   {\displaystyle {\displaystyle c}} હોય તો,
+   c = 2 π r .  {\displaystyle ~c=2\pi r.} 
+ક્ષેત્રફળ    A   {\displaystyle {\displaystyle A}} અને ત્રિજ્યા    r   {\displaystyle {\displaystyle r}} હોય તો,
+    A = π r 2  .   {\displaystyle {\displaystyle ~A=\pi r^{2}.}} 
