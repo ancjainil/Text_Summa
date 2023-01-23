@@ -19,17 +19,17 @@ If this is accomplished then go for accuracy and focus on fine tuning of the mod
 
 
 
-**INPUTS**
+## **INPUTS**
 
 ![image](https://user-images.githubusercontent.com/80884488/213648083-eeb2373a-19b4-497c-af45-886ffd055d4f.png)
 
 
-**OUTPUT**
+## **OUTPUT**
 
 ![image](https://user-images.githubusercontent.com/80884488/213648522-026a2866-222b-443f-aead-007acf384a70.png)
 
 
-**Generated Output**
+## **Generated Output**
 
 ![image](https://user-images.githubusercontent.com/80884488/213648662-81faa8e1-471b-4afc-ad59-e833f30dd3a1.png)
 
@@ -38,7 +38,7 @@ If this is accomplished then go for accuracy and focus on fine tuning of the mod
 
 
 
-**FUNCTIONALITY**
+## **FUNCTIONALITY**
 
 The intention is to create a coherent and fluent summary having only the main points outlined in the document. Automatic text summarization is a common problem in machine learning and natural language processing (NLP).
 
