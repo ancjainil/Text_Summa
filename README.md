@@ -1,10 +1,10 @@
 ## Text_Summarization
 This is a research based on Gujarati Text Summarization
-Model : Transformer XL
+Model : Transformer XL (Attention Layer)
 
 
 
-##Dataset 
+## Dataset 
 
 I have used a bifurgated dataset available on Indic nlp website. Besides,  I have also created a dataset using Web Scraping also which can be utilized for Gujarati Text Classification.
 
@@ -37,6 +37,7 @@ If this is accomplished then go for accuracy and focus on fine tuning of the mod
 
 
 
+
 **FUNCTIONALITY**
 
 The intention is to create a coherent and fluent summary having only the main points outlined in the document. Automatic text summarization is a common problem in machine learning and natural language processing (NLP).
@@ -45,7 +46,9 @@ Summary can be Utilized as News Headline for the news.
 
 
 
-##LOGIC
+
+
+## LOGIC
 
 --> Web Scraping for News Datset Generation.
 
