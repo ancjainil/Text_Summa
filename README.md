@@ -19,12 +19,12 @@ If this is accomplished then go for accuracy and focus on fine tuning of the mod
 
 
 
-## **INPUTS**
+## **Input**
 
 ![image](https://user-images.githubusercontent.com/80884488/213648083-eeb2373a-19b4-497c-af45-886ffd055d4f.png)
 
 
-## **OUTPUT**
+## **Output**
 
 ![image](https://user-images.githubusercontent.com/80884488/213648522-026a2866-222b-443f-aead-007acf384a70.png)
 
