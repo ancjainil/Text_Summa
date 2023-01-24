@@ -19,19 +19,11 @@ If this is accomplished then go for accuracy and focus on fine tuning of the mod
 
 
 
-## **Input**
+## **Input** and **Output**
 
-![image](https://user-images.githubusercontent.com/80884488/213648083-eeb2373a-19b4-497c-af45-886ffd055d4f.png)
-
-
-## **Output**
-
-![image](https://user-images.githubusercontent.com/80884488/213648522-026a2866-222b-443f-aead-007acf384a70.png)
+![image](https://user-images.githubusercontent.com/80884488/214220051-cd76413a-cce5-4fb6-ae28-eed193c31552.png)
 
 
-## **Generated Output**
-
-![image](https://user-images.githubusercontent.com/80884488/213648662-81faa8e1-471b-4afc-ad59-e833f30dd3a1.png)
 
 
 
